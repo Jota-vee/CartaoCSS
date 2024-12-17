@@ -1,2 +1,2 @@
 # CartaoCSS
-Pequeno trabalho de WEB O usando CSS
+Pequeno trabalho de WEB I usando CSS
